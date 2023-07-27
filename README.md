@@ -3,7 +3,7 @@ The Fest Management System is a web application designed to simplify and streaml
 
 # Installation
 
-To install the  application, follow these steps:
+To use the  application, follow these steps:
 
 Clone the repository from GitHub.
 Open the project in Android Studio.
