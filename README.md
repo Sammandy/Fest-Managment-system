@@ -24,9 +24,6 @@ Users begin by accessing the Event Registration form, where they can review even
 ### E-R Diagram
   ![er diagram](https://github.com/user-attachments/assets/ca541b69-382c-4f77-8122-caa1a37af4ef)
 
-### Video Demo of the Website
-  [Watch the demo](https://github.com/user-attachments/assets/1663da18-2ee1-490a-a32b-645ae6b396a0)
-
 ### Advantages
 1. **Improved Organization**: Centralized management of festival data, such as attendees, vendors, and events.
 2. **Efficient Data Handling**: Minimizes errors and ensures smooth handling of large datasets using a DBMS.
